@@ -21,16 +21,10 @@ This project explores **MLflow’s experiment tracking and model registry** with
 🔹 **Centralized Experiment Tracking with MLflow** 📊  
 🔹 **Collaboration for ML Teams** 👥  
 
-## 📂 Repository Structure
+## Experiments
 ```
-├── data/                # Synthetic dataset
-├── models/              # Saved models
-├── notebooks/           # Jupyter notebooks for experimentation
-├── src/                 # Source code for training and tracking
-│   ├── train.py         # Model training script
-│   ├── track_mlflow.py  # MLflow tracking script
-├── README.md            # Project documentation
-└── requirements.txt     # Required dependencies
+![Anomaly_Detection](https://github.com/user-attachments/assets/99ce2a66-785d-4418-be80-2a5a37b7caed)
+
 ```
 
 ## 🔗 Links
