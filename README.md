@@ -21,11 +21,8 @@ This project explores **MLflow’s experiment tracking and model registry** with
 🔹 **Centralized Experiment Tracking with MLflow** 📊  
 🔹 **Collaboration for ML Teams** 👥  
 
-## Experiments
-```
-![Anomaly_Detection](https://github.com/user-attachments/assets/99ce2a66-785d-4418-be80-2a5a37b7caed)
-
-```
+## 📸 Experiments
+![Anomaly_Detection](https://github.com/user-attachments/assets/fd926e7b-d1a2-4a21-8355-79638f5f3918)
 
 ## 🔗 Links
 - **MLflow Experiment Tracking**: [DAGsHub Link]
